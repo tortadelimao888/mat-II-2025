@@ -13,14 +13,14 @@ header{
 #gato {
     width:220px;
     height: 220px;
-    padding: left 600px;
+    padding: left 400px;
     padding-right: 100px;
 }
 #cachorro {
     width: 220px;
     height: 220px;
     padding: left 0px;
-    padding-right: 600px;
+    padding-right: 400px;
 }
 
 link:focus-visible
