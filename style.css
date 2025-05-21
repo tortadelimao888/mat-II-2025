@@ -1,5 +1,5 @@
 body{
-     background-color: beige;
+     background-color: rgb(243, 240, 220);
      #gato2 {
         width: 512px;
         height: 499px;
@@ -8,7 +8,7 @@ body{
      }
 }
 header{
-    background-color: green;
+    background-color: rgb(128, 115, 80);
 }
 #gato {
     width:220px;
