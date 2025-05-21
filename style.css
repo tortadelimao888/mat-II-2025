@@ -1,12 +1,14 @@
 body{
      background-color: rgb(241, 232, 220);
-     #gato2 {
+    }
+    
+#gato2 {
         width: 512px;
         height: 499px;
         padding: left 400px;
         padding-right: 400px;
      }
-}
+
 header{
     background-color: rgb(110, 92, 70);
 }
@@ -22,6 +24,3 @@ header{
     padding: left 0px;
     padding-right: 400px;
 }
-
-
-link:focus-visible
