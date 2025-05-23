@@ -11,6 +11,10 @@ body{
 
 header{
     background-color: rgb(110, 92, 70);
+    width: 1440px;
+    height: 238px;
+    padding-left:1px;
+    padding-right:1px;
 }
 #gato {
     width:220px;
